@@ -1,0 +1,6 @@
+port: :80
+
+elasticsearch:
+  host:
+    - elasticsearch:9200
+  log: true
